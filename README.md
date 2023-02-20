@@ -1,1 +1,1 @@
-# HARDCODED DESIGN FOR A NEW BANK WEB APPLICATION UI
+# Hardcoded design for a startup bank
