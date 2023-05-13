@@ -1,1 +1,1 @@
-# Hardcoded design for a startup bank
+# Frontend Mentor - Easybank challenge
